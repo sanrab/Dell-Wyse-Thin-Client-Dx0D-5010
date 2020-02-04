@@ -1,0 +1,14 @@
+Dell WYSE Thin client Dx0D/5010, Dual core AMD G-T48E, 1.4 GHz, 3.5 GB RAM, flash SATA 16 GB, AMD Radeon HD 6250 Graphics
+
+per accedere al BIOS premedere DEL durante il boot 
+premere p per scelta temporanea ordine boot
+
+per resettare BIOS cambiare jumper da 2-3 a 1-2 per 30" con power attaccato
+
+per cambiare ordine funziona efibootmgr
+
+ok con wi-fi USB ASUS
+
+EFI
+Xubuntu 18.04, grub
+non funziona shutdown, funziona reboot
